@@ -1,0 +1,14 @@
+.Search-Box{
+  /* text-align: center;
+  position: fixed;
+  right: 40%;
+  top: 12%; */
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 5px;
+}
+#btn{
+  margin-left: 5rem;
+}
+
